@@ -1,0 +1,127 @@
+<h3 align="center">
+  Bem vindo ao perfil de Marcus Costa
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor,%20Analista%20e%20Cientista%20de%20dados&center=true&width=500&height=45"></a>
+</p>
+
+<!-- Badges template - https://github.com/badges/shields -->
+<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">   
+  <a href="https://www.linkedin.com/in/marcusfreitascosta/" target="_blank">    
+    <img alt="followers" width="15px" height="15px" title="Follow me on Github" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/>
+  Linkedin
+  </a>
+</p>
+
+## 📘 Meus melhores repositórios
+
+<p align="left">
+  <ul>
+  <li><a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais">Análise de Principais Componentes</a></li>
+  <li><a href="https://github.com/Marcus-V-Freitas/WebCommerces">WebCommerce</a></li>
+  </ul>
+</p>
+
+<p align="left">
+  <ul>
+    <li><a href="https://github.com/Marcus-V-Freitasd">Todos os Repositórios</a></li>
+  </ul>
+</p>
+
+## 🛠️ Minhas Ferramentas favoritas
+
+### 👨‍💻 Linguagens de Programação
+
+<p>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>  
+    <a href="#"><img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label="/></a>    
+</p>
+
+### 🧰 Frameworks e Bibliotecas
+
+<p>
+   <a href="#"><img alt="Blazor" src="https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label="/></a>
+   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/><a>
+   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+   <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+</p>
+
+### 📋 Controle de versão
+<p>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
+</p>
+
+### ☁️ Nuvem
+<p>
+  <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/></a>
+  <a href="#"><img alt="Azure Data Explorer" src="https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Data+Explorer&color=0078D4&logo=Azure+Data+Explorer&logoColor=FFFFFF&label="/></a>
+  <a href="#"><img alt="Azure Functions" src="https://img.shields.io/static/v1?style=for-the-badge&message=Azure+Functions&color=0062AD&logo=Azure+Functions&logoColor=FFFFFF&label="/></a>
+</p> 
+
+### 📊 Science e Analytics
+<p>
+  <a href="#"><img alt="Talend" src="https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=1675BC&logo=Talend&logoColor=FFFFFF&label="/></a>
+  <a href="#"><img alt="Power Bi" src="https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label="/></a>
+  <a href="#"><img alt="Google Colab" src="https://camo.githubusercontent.com/c05a246fa2e1f60805ece5c251f8aab6f0cc4bfe520a9722fbb3d076f9307929/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b436f6c616226636f6c6f723d323232323232266c6f676f3d476f6f676c652b436f6c6162266c6f676f436f6c6f723d463941423030266c6162656c3d"/></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
+  <a href="#"><img alt="Numpy" src="https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label="/></a>
+  <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label="/></a>
+
+</p>
+
+### 🗄️ Bancos de Dados
+
+<p>
+    <a href="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label="/></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></a>   
+</p>
+
+### 💻 IDE's e Editores de Texto
+
+<p>
+  <a href="#"><img alt="Visual Studio" src="https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d"/></a>
+  <a href="#"><img alt="Eclipse" src="https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label="/></a>
+  <a href="#"><img alt="Sublime" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label="/></a>  
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="/></a>
+  <a href="#"><img alt="Notepad++" src="https://img.shields.io/static/v1?style=for-the-badge&message=Notepad%2B%2B&color=222222&logo=Notepad%2B%2B&logoColor=90E59A&label="/></a>
+</p>
+
+### 💾 Office
+
+<p>
+    <a href="#"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft Visio " src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" /></a>
+    <a href="#"><img alt="Microsoft Teams" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label="/></a>
+    <a href="#"><img alt="Microsoft Outlook" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Outlook&color=0078D4&logo=Microsoft+Outlook&logoColor=FFFFFF&label="/></a>
+</p>
+
+### 💻 Outros Software
+
+<p>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label="/></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+    <a href="#"><img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>   
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" /></a>
+    <a href="#"><img alt="Team Viewer" src="https://img.shields.io/static/v1?style=for-the-badge&message=TeamViewer&color=0E8EE9&logo=TeamViewer&logoColor=FFFFFF&label="/></a>   
+</p>
