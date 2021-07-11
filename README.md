@@ -18,6 +18,16 @@
   </a>
 </p>
 
+## 📜 Principais Certificações (Clique para direcionar para o link)
+
+<p>
+  <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>   
+  <a href="https://www.credly.com/badges/be6b0d81-325a-4cfc-987a-3b8168427b3c"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5cc4fa32-c08f-43c5-ae31-3184e172ad34/CERT-Associate-Data-Analyst-600x600.png"/></a> 
+  <a href="https://www.credly.com/badges/1fae262b-c9b0-4798-885a-d8555139b118"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/1dc3a4b2-95e0-4a24-9030-1c1bf7274f02/Cloud_Skills_Champion_Badge.png"/></a>
+  <a href="https://www.credly.com/badges/4e677928-ac66-4cda-b04b-53849c9b581e"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png"/></a>
+  <a href="https://www.credly.com/badges/0dad026e-7ed4-412b-8c7a-42f9e24178a2"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png"/></a>
+</p>
+
 ## 📘 Meus melhores repositórios
 
 <p align="left">
