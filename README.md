@@ -3,22 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor,%20Analista%20e%20Cientista%20de%20dados&center=true&width=500&height=45"></a>
 </p>
 
-<!-- Badges template - https://github.com/badges/shields -->
-<!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">   
-  <a href="https://www.linkedin.com/in/marcusfreitascosta/" target="_blank">    
-    <img alt="followers" width="15px" height="15px" title="Follow me on Github" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667"/>
-  Linkedin
-  </a>
+## 📱 Redes Sociais 
+
+<p>
+  <a href="https://www.linkedin.com/in/marcusfreitascosta"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.quora.com/profile/Marcus-Costa-26"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a> 
+ <a href="https://stackoverflow.com/users/16427724/marcus-costa?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-## 📜 Principais Certificações (Clique para direcionar para o link)
+## 📜 Principais Certificações (Clique para direcionar)
 
 <p>
   <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>     
@@ -101,7 +98,9 @@
   <a href="#"><img alt="Google Colab" src="https://camo.githubusercontent.com/c05a246fa2e1f60805ece5c251f8aab6f0cc4bfe520a9722fbb3d076f9307929/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f6f676c652b436f6c616226636f6c6f723d323232323232266c6f676f3d476f6f676c652b436f6c6162266c6f676f436f6c6f723d463941423030266c6162656c3d"/></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
   <a href="#"><img alt="Numpy" src="https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label="/></a>
-  <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label="/></a>
+  <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label="/>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+ </a>
 
 </p>
 
