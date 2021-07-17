@@ -42,6 +42,7 @@
 <p align="left">
   <ul>
   <li><a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais">Análise de Principais Componentes</a></li>
+  <li><a href="https://github.com/Marcus-V-Freitas/Comparacao_Naive_Bayes">Comparacao Naive Bayes</a></li>
   <li><a href="https://github.com/Marcus-V-Freitas/WebCommerces">WebCommerce</a></li>
   </ul>
 </p>
