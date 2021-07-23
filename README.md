@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor,%20Analista%20e%20Cientista%20de%20dados&center=true&width=500&height=45">
   </a>  
    <a href="https://github.com/Marcus-V-Freitas/Marcus-V-Freitas/blob/main/Darth%20Vader.svg">
-		<img src="Darth%20Vader.svg" width="800" height="400" alt="Click to see the source">
+		<img src="Darth%20Vader.svg" width="800" height="250" alt="Click to see the source">
    </a>
 </p>
 
