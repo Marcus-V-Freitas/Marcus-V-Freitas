@@ -46,6 +46,7 @@
 <p align="left">
   <ul>
   <li><a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais">Análise de Principais Componentes</a></li>
+  <li><a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid">Análise de Correspondência Simples com dados Covid</a></li>
   <li><a href="https://github.com/Marcus-V-Freitas/Comparacao_Naive_Bayes">Comparacao Naive Bayes</a></li>
   <li><a href="https://github.com/Marcus-V-Freitas/Predicao_Vendas_Loja">Previsão Vendas Loja (Todos os passos de uma Análise)</a></li>
   <li><a href="https://github.com/Marcus-V-Freitas/NeuralNetwork">Rede Neural Simples feita em C#</a></li>
