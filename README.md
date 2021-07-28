@@ -44,21 +44,19 @@
 ## 📘 Meus melhores repositórios
 
 <p align="left">
-  <ul>
-  <li><a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais">Análise de Principais Componentes</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid">Análise de Correspondência Simples com dados Covid</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/Comparacao_Naive_Bayes">Comparacao Naive Bayes</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/Predicao_Vendas_Loja">Previsão Vendas Loja (Todos os passos de uma Análise)</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/NeuralNetwork">Rede Neural Simples feita em C#</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/WebCommerces">WebCommerce</a></li>
-  <li><a href="https://github.com/Marcus-V-Freitas/Analise_Departamento_Vendas">Análise de Departamento com a Lib do Facebook</a></li>
-  </ul>
+  <a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Componentes_Principais&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Componentes_Principais"></a>
+<a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Correspondencia_Covid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Correspondencia_Covid"></a>
+<a href="https://github.com/Marcus-V-Freitas/Comparacao_Naive_Bayes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Comparacao_Naive_Bayes&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Comparacao_Naive_Bayes"></a>
+<a href="https://github.com/Marcus-V-Freitas/Predicao_Vendas_Loja"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Predicao_Vendas_Loja&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Predicao_Vendas_Loja"></a>
+<a href="https://github.com/Marcus-V-Freitas/Predicao_Vendas_Loja"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Predicao_Vendas_Loja&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Predicao_Vendas_Loja"></a>
+<a href="https://github.com/Marcus-V-Freitas/NeuralNetwork"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=NeuralNetwork&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="NeuralNetwork"></a>
+<a href="https://github.com/Marcus-V-Freitas/WebCommerces"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=WebCommerces&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="WebCommerces"></a>
+<a href="https://github.com/Marcus-V-Freitas/Analise_Departamento_Vendas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Departamento_Vendas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Departamento_Vendas"></a>
+	
 </p>
 
 <p align="left">
-  <ul>
-    <li><a href="https://github.com/Marcus-V-Freitasd">Todos os Repositórios</a></li>
-  </ul>
+  <a href="https://github.com/Marcus-V-Freitas?tab=repositories"><img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://img.shields.io/badge/-Todos%20os%20Repositórios-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4="/></a>
 </p>
 
 ## 🛠️ Minhas Ferramentas favoritas
