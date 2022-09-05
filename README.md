@@ -22,8 +22,9 @@
 ## 📜 Principais Certificações (Clique para direcionar)
 
 <p>
-  <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>     
-  <a href="https://www.credly.com/badges/be6b0d81-325a-4cfc-987a-3b8168427b3c"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/9230b95b-2cb5-44be-bc07-301f9b753e27/image.png"/></a>   
+  <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>  	
+ <a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"/></a> 	
+  <a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"/></a>   
   <a href="https://www.credly.com/badges/4e677928-ac66-4cda-b04b-53849c9b581e"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png"/></a>
   <a href="https://www.credly.com/badges/0dad026e-7ed4-412b-8c7a-42f9e24178a2"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png"/></a>
    <a href="https://www.credly.com/badges/11306018-034b-48b1-893d-4f9648d563dc"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png"/></a>
