@@ -15,8 +15,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/marcusfreitascosta"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.quora.com/profile/Marcus-Costa-26"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a> 
- <a href="https://stackoverflow.com/users/16427724/marcus-costa?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
 ## 📜 Principais Certificações (Clique para direcionar)
@@ -41,19 +39,14 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marcus-V-Freitas&show_icons=true&theme=radical"/></a>              
 </p>
 
-
 ## 📘 Meus melhores repositórios
 <p align="left">
-<a href="https://github.com/Marcus-V-Freitas/CrawlerBrazilGovData"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CrawlerBrazilGovData&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CrawlerBrazilGovData"></a>
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Hosting.WireMock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Hosting.WireMock&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Aspire.Hosting.WireMock"></a>
 <a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Componentes_Principais&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Componentes_Principais"></a>
 <a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Correspondencia_Covid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Correspondencia_Covid"></a>
 <a href="https://github.com/Marcus-V-Freitas/Mapa_Coropletico_mortes_COVID_19_Brasil"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Mapa_Coropletico_mortes_COVID_19_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mapa_Coropletico_mortes_COVID_19_Brasil"></a>
-<a href="https://github.com/Marcus-V-Freitas/Comparacao_Naive_Bayes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Comparacao_Naive_Bayes&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Comparacao_Naive_Bayes"></a>
 <a href="https://github.com/Marcus-V-Freitas/Regressao_Nao_Linear_Multipla"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Regressao_Nao_Linear_Multipla&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Regressao_Linear_Simples_PCA"></a>
-<a href="https://github.com/Marcus-V-Freitas/Predicao_Vendas_Loja"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Predicao_Vendas_Loja&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Predicao_Vendas_Loja"></a>
-<a href="https://github.com/Marcus-V-Freitas/NeuralNetwork"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=NeuralNetwork&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="NeuralNetwork"></a>
-<a href="https://github.com/Marcus-V-Freitas/WebCommerces"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=WebCommerces&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="WebCommerces"></a>
-<a href="https://github.com/Marcus-V-Freitas/Analise_Departamento_Vendas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Departamento_Vendas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Departamento_Vendas"></a>			
+<a href="https://github.com/Marcus-V-Freitas/CsharpUtilsLib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CsharpUtilsLib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CsharpUtilsLib"></a>
 </p>
 
 <p align="left">
