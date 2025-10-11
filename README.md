@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor,%20Analista%20e%20Cientista%20de%20dados&center=true&width=500&height=45">
   </a>  
    <a href="https://github.com/Marcus-V-Freitas/Marcus-V-Freitas/blob/main/Darth%20Vader.svg">
-		<img src="Darth%20Vader.svg" width="800" height="250" alt="Click to see the source">
+		<img src="Darth%20Vader.svg" style="max-width: 100%; height: auto;" alt="Click to see the source">
    </a>
 </p>
 
@@ -20,33 +20,33 @@
 ## 📜 Principais Certificações (Clique para direcionar)
 
 <p>
-  <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>  	
- <a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"/></a> 	
-  <a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"/></a>   
-  <a href="https://www.credly.com/badges/4e677928-ac66-4cda-b04b-53849c9b581e"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png"/></a>
-  <a href="https://www.credly.com/badges/0dad026e-7ed4-412b-8c7a-42f9e24178a2"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png"/></a>
-   <a href="https://www.credly.com/badges/11306018-034b-48b1-893d-4f9648d563dc"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png"/></a>
-  <a href="https://www.credly.com/badges/e103e3d6-1958-471e-a127-a6a56fed2908"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png"/></a>
-  <a href="https://www.credly.com/badges/c1e9690f-3544-439a-89f6-44dab5fead23"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"/></a>
- <a href="https://www.credly.com/badges/85460fb3-ca46-4290-966b-c0fc1c1792d2"><img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png"/></a>
+  <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/></a>  	
+ <a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"/></a> 	
+  <a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"/></a>   
+  <a href="https://www.credly.com/badges/4e677928-ac66-4cda-b04b-53849c9b581e"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png"/></a>
+  <a href="https://www.credly.com/badges/0dad026e-7ed4-412b-8c7a-42f9e24178a2"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png"/></a>
+   <a href="https://www.credly.com/badges/11306018-034b-48b1-893d-4f9648d563dc"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png"/></a>
+  <a href="https://www.credly.com/badges/e103e3d6-1958-471e-a127-a6a56fed2908"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png"/></a>
+  <a href="https://www.credly.com/badges/c1e9690f-3544-439a-89f6-44dab5fead23"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"/></a>
+ <a href="https://www.credly.com/badges/85460fb3-ca46-4290-966b-c0fc1c1792d2"><img style="width: 100px; height: 100px; max-width: 100%;" src="https://images.credly.com/size/680x680/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png"/></a>
   
 </p>
 
 ## ✏️ Resumo Github
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-V-Freitas&layout=compact&theme=dracula&show_icons=true"/></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marcus-V-Freitas&show_icons=true&theme=radical"/></a>              
+  <a href="#"><img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-V-Freitas&layout=compact&theme=dracula&show_icons=true"/></a>
+  <a href="#"><img style="max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Marcus-V-Freitas&show_icons=true&theme=radical"/></a>              
 </p>
 
 ## 📘 Meus melhores repositórios
 <p align="left">
-<a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Hosting.WireMock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Hosting.WireMock&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Aspire.Hosting.WireMock"></a>
-<a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Componentes_Principais&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Componentes_Principais"></a>
-<a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Correspondencia_Covid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Correspondencia_Covid"></a>
-<a href="https://github.com/Marcus-V-Freitas/Mapa_Coropletico_mortes_COVID_19_Brasil"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Mapa_Coropletico_mortes_COVID_19_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mapa_Coropletico_mortes_COVID_19_Brasil"></a>
-<a href="https://github.com/Marcus-V-Freitas/Regressao_Nao_Linear_Multipla"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Regressao_Nao_Linear_Multipla&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Regressao_Linear_Simples_PCA"></a>
-<a href="https://github.com/Marcus-V-Freitas/CsharpUtilsLib"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CsharpUtilsLib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CsharpUtilsLib"></a>
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Hosting.WireMock"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Hosting.WireMock&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Aspire.Hosting.WireMock"></a>
+<a href="https://github.com/Marcus-V-Freitas/Analise_Componentes_Principais"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Componentes_Principais&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Componentes_Principais"></a>
+<a href="https://github.com/Marcus-V-Freitas/Analise_Correspondencia_Covid"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Analise_Correspondencia_Covid&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Analise_Correspondencia_Covid"></a>
+<a href="https://github.com/Marcus-V-Freitas/Mapa_Coropletico_mortes_COVID_19_Brasil"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Mapa_Coropletico_mortes_COVID_19_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mapa_Coropletico_mortes_COVID_19_Brasil"></a>
+<a href="https://github.com/Marcus-V-Freitas/Regressao_Nao_Linear_Multipla"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Regressao_Nao_Linear_Multipla&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Regressao_Linear_Simples_PCA"></a>
+<a href="https://github.com/Marcus-V-Freitas/CsharpUtilsLib"><img style="max-width: 282px; width: 100%; height: auto;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CsharpUtilsLib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="CsharpUtilsLib"></a>
 </p>
 
 <p align="left">
@@ -54,7 +54,7 @@
 </p>
 
 ## 🔥 Estatísticas de Contribuição
-<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=Marcus-V-Freitas&theme=dark&hide_border=true" alt="Estatísticas de Contribuição"></a>
+<a href="#"><img style="max-width: 100%; height: auto;" src="http://github-readme-streak-stats.herokuapp.com?user=Marcus-V-Freitas&theme=dark&hide_border=true" alt="Estatísticas de Contribuição"></a>
 
 ## 🛠️ Minhas Ferramentas favoritas
 
