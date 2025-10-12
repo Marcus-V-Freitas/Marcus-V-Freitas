@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h3>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor;Analista%20e%20Cientista%20de%20dados&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor,%20Analista%20e%20Engenheiro%20de%20dados&center=true&width=500&height=45">
   </a>
   <br>
   <a href="https://github.com/Marcus-V-Freitas/Marcus-V-Freitas/blob/main/Darth%20Vader.svg">
@@ -20,58 +20,91 @@
 
 ## 📜 Principais Certificações (Clique para direcionar)
 
-### ☁️ Cloud & Dados (Azure)
+### 🐧 Open Source
+
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.credly.com/badges/e103e3d6-1958-471e-a127-a6a56fed2908">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png"/>
+     <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/8f869330-527d-4036-996b-8cb2eb749d73">
+        <img width="100px" height="100px" src="https://images.credly.com/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" alt="linux" />
       </a>
     </td>
   </tr>
 </table>
 
-### 💻 Desenvolvimento de Software (Microsoft)
+### ☁️ Cloud Developer
 <table align="center">
   <tr>
     <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/1196a12a-1a1d-4f87-aa0e-126660b74474">
+        <img width="100px" height="100px" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="developer_aws" /> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="developer_microsoft"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🔎 Dados
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/811467f5-96e4-4adf-abf5-26baae3f3969">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="google">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="data_scientist"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="power_bi"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/49780027-5351-413a-b7a0-b8d4f86f80f2">
+        <img width="100px" height="100px" src="https://images.credly.com/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" alt="meta"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 💻 Microsoft
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/2f08ce39-fdf5-458e-b71e-3f01fdc08f8d">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/ff9e3554-46b8-474d-8a8c-9285284e6c83/Developing_Microsoft_Azure_and_Web_Services-01.png" alt="azure_web_services"/>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.credly.com/badges/4e677928-ac66-4cda-b04b-53849c9b581e">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png"/>
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/38ac16bb-aba0-449f-912d-a0112adc5657/MCSD-App_Builder.png" alt="MCSD" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/0dad026e-7ed4-412b-8c7a-42f9e24178a2">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png"/>
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/b87c24db-0e54-4f78-8059-eb47675d585d/MCSA-Web_Applications.png" alt="MCSA" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/c1e9690f-3544-439a-89f6-44dab5fead23">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png"/>
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/cbab3216-025d-4601-86ee-c5970b348d48/Developing_ASP.NET_MVC_Web_Applications-01.png" alt="AspNet" />
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/11306018-034b-48b1-893d-4f9648d563dc">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png"/>
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" alt="html_css_javascript"/>
       </a>
     </td>
      <td align="center">
       <a href="https://www.credly.com/badges/85460fb3-ca46-4290-966b-c0fc1c1792d2">
-        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png"/>
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/78e39333-d0db-4931-b231-13bdb37040cc/Programming_in_C_23-01.png" alt="csharp"/>
       </a>
     </td>
   </tr>
@@ -91,6 +124,13 @@
 ## 📘 Meus melhores repositórios
 
 <table width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://github.com/Marcus-V-Freitas/MVFC.SQLCraft">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.SQLCraft&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.SQLCraft">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="33.3%" align="center">
       <a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Hosting.WireMock">
