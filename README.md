@@ -193,7 +193,7 @@
 
 ## 🛠️ Main Hard Skills
 
-### 👨‍💻 Linguages e Framworks
+### 👨‍💻 Frameworks
 
 <p>
    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/></a>
@@ -212,6 +212,7 @@
 ### 🗄️ Dados
 
 <p>
+    <a href="#"><img alt="ETL" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff"/></a>
     <a href="#"><img alt="Power Bi" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"/></a>
     <a href="#"><img alt="MSSQL" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"/></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/></a>
@@ -230,6 +231,8 @@
 ### ⚙️ Tools
 
 <p>
+  <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000"/></a>
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"/></a>
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/></a>
   <a href="#"><img alt="Nuget" src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/></a> 
