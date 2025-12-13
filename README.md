@@ -46,6 +46,11 @@
         <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="developer_microsoft"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://www.credly.com/earner/earned/badge/01aed423-751b-4785-b9e0-85b441c332d9">
+        <img width="100px" height="100px" src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="cloud_digital_leader"/>
+      </a>
+    </td>
   </tr>
 </table>
 
