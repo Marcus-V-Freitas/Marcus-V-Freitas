@@ -17,6 +17,7 @@
 <p>
   <a href="https://www.linkedin.com/in/marcusfreitascosta"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
   <a href="https://www.nuget.org/profiles/marcuscosta"><img alt="Nuget Package" src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff"/></a>
+  <a href="https://medium.com/@marcusviniciusdefreitascosta"><img alt="Medium" src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"/></a>
 </p>
 
 ## 📜 Principais Certificações (Clique para direcionar)
