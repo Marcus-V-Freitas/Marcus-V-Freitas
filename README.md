@@ -138,8 +138,8 @@
       </a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://github.com/Marcus-V-Freitas/MVFC.StoryTest">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.StoryTest&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.StoryTest">
+      <a href="https://github.com/Marcus-V-Freitas/MVFC.LongPolling">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.LongPolling&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.LongPolling">
       </a>
     </td>
     <td width="33.3%" align="center">
@@ -150,8 +150,8 @@
   </tr>
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Hosting.WireMock">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Hosting.WireMock&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Aspire.Hosting.WireMock">
+      <a href="https://github.com/Marcus-V-Freitas/MVFC.Connectors">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Connectors">
       </a>
     </td>
     <td width="33.3%" align="center">
@@ -167,8 +167,8 @@
   </tr>
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://github.com/Marcus-V-Freitas/Mapa_Coropletico_mortes_COVID_19_Brasil">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Mapa_Coropletico_mortes_COVID_19_Brasil&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Mapa_Coropletico_mortes_COVID_19_Brasil">
+      <a href="https://github.com/Marcus-V-Freitas/MVFC.Pack">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Pack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="MVFC.Pack">
       </a>
     </td>
     <td width="33.3%" align="center">
