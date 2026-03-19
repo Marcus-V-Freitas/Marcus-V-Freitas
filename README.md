@@ -50,8 +50,10 @@
 <div align="center">
 
 [![Ocr](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Ocr&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/Ocr)
-
 [![FocoFinanceiro](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=FocoFinanceiro&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/FocoFinanceiro)
+
+[![VB6_.NET_IDE_DARK_THEME](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=VB6_.NET_IDE_DARK_THEME&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/VB6_.NET_IDE_DARK_THEME)
+[![Darth_Vader_SVG](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Darth_Vader_SVG&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/Darth_Vader_SVG)
 
 </div>
 
