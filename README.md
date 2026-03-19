@@ -6,9 +6,10 @@
 
 <br/>
 
-> 🛠️ Especialista **C# / .NET** · Autor de pacotes **NuGet** · Back-End Engineer **@ GFT Technologies**  
+> 🛠️ Especialista **C# / .NET** · Back-End Engineer **@ GFT Technologies**  
 > 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics**  
-> ☁️ Certificado **AWS · Azure · GCP**
+> 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet  
+> ☁️ Certificado **AWS · Azure · GCP**  
 
 <br/>
 
@@ -28,8 +29,6 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1F222E&height=4"/>
-
----
 
 ## 📦 Pacotes NuGet
 
