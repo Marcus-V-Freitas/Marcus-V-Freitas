@@ -115,7 +115,8 @@
 
 ## 📜 Certificações
 
-<summary>☁️ Cloud Developer</summary>
+### ☁️ Cloud Developer
+
 <br/>
 <table align="center">
   <tr>
@@ -126,7 +127,8 @@
   </tr>
 </table>
 
-<summary>🔎 Dados</summary>
+### 🔎 Dados
+
 <br/>
 <table align="center">
   <tr>
@@ -137,7 +139,8 @@
   </tr>
 </table>
 
-<summary>💻 Microsoft</summary>
+### 💻 Microsoft
+
 <br/>
 <table align="center">
   <tr>
@@ -149,7 +152,8 @@
   </tr>
 </table>
 
-<summary>🐧 Open Source</summary>
+### 🐧 Open Source
+
 <br/>
 <table align="center">
   <tr>
