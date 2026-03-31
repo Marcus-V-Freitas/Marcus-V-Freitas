@@ -68,20 +68,24 @@
 ## ✏️ GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Marcus-V-Freitas&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-V-Freitas&layout=compact&theme=radical&hide_border=true&langs_count=8" height="165"/>
-
+  <img src="metrics.base.svg" alt="Stats & Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcus-V-Freitas&theme=radical&hide_border=true" alt="Streak Stats"/>
+  <img src="metrics.isocalendar.svg" alt="Isometric Calendar"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-V-Freitas&theme=react-dark&hide_border=true&area=true&color=F85D7F&line=F85D7F&point=F8D866" alt="Activity Graph"/>
+  <img src="metrics.habits.svg" alt="Coding Habits"/>
+  <img src="metrics.achievements.svg" alt="Achievements"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="metrics.activity.svg" alt="Recent Activity"/>
 </div>
 
 ---
