@@ -39,7 +39,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - name: Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.habits.svg
@@ -52,7 +52,7 @@ jobs:
           plugin_habits_languages_limit: 6
 
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
@@ -63,7 +63,7 @@ jobs:
           plugin_achievements_ignored: projects
 
       - name: Activity
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.activity.svg
