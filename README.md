@@ -68,24 +68,10 @@
 ## ✏️ GitHub Stats
 
 <div align="center">
-  <img src="metrics.base.svg" alt="Stats & Languages"/>
-</div>
 
-<div align="center">
-  <img src="metrics.isocalendar.svg" alt="Isometric Calendar"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Marcus-V-Freitas&theme=radical)](https://github.com/Marcus-V-Freitas)
+[![Estatísticas do Marcus](https://github-stats-extended.vercel.app/api?username=Marcus-V-Freitas&show_icons=true&theme=radical)](https://github.com/Marcus-V-Freitas)
 
-<br/>
-
-<div align="center">
-  <img src="metrics.habits.svg" alt="Coding Habits"/>
-  <img src="metrics.achievements.svg" alt="Achievements"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="metrics.activity.svg" alt="Recent Activity"/>
 </div>
 
 ---
