@@ -35,7 +35,7 @@
 <div align="center">
 
 [![MVFC.Aspire.Helpers](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Helpers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers)
-[![MVFC.Pack](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Pack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.Pack)
+[![MVFC.ChaosEngineering](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ChaosEngineering&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
 
 [![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
 [![CsharpUtilsLib](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CsharpUtilsLib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/CsharpUtilsLib)
