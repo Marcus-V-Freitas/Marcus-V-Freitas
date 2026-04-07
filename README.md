@@ -30,18 +30,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1F222E&height=4"/>
 
-## 📦 Pacotes NuGet
+## 📦 MVFC.Nugets
 
 <div align="center">
 
-[![MVFC.Aspire.Helpers](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Helpers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers)
-[![MVFC.ChaosEngineering](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ChaosEngineering&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
+[![MVFC.Mediator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Mediator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Mediator)
+[![MVFC.Messaging](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Messaging&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Messaging)
 
-[![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
-[![CsharpUtilsLib](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=CsharpUtilsLib&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/CsharpUtilsLib)
+[![MVFC.Idempotence](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Idempotence&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Idempotence)
+[![MVFC.ChaosEngineering](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ChaosEngineering&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
 
-[![MVFC.MongoDbFlow](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.MongoDbFlow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
-[![MVFC.SQLCraft](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.SQLCraft&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft)
+[![MVFC.Aspire.Helpers](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Helpers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers)
+[![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
+
+[![MVFC.MongoDbFlow](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.MongoDbFlow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
+[![MVFC.SQLCraft](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.SQLCraft&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft)
 
 </div>
 
