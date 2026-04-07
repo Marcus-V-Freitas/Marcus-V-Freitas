@@ -30,7 +30,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=1F222E&height=4"/>
 
-## 📦 MVFC.Nugets
+## 📦 Família MVFC.*
 
 <div align="center">
 
@@ -40,11 +40,16 @@
 [![MVFC.Idempotence](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Idempotence&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Idempotence)
 [![MVFC.ChaosEngineering](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ChaosEngineering&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
 
+[![MVFC.LongPolling](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.LongPolling&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.LongPolling)
 [![MVFC.Aspire.Helpers](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Helpers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers)
-[![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
 
+[![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
 [![MVFC.MongoDbFlow](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.MongoDbFlow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
+
 [![MVFC.SQLCraft](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.SQLCraft&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft)
+[![MVFC.RazorRender](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.RazorRender&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.RazorRender)
+
+[![MVFC.Pack](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Pack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Pack)
 
 </div>
 
