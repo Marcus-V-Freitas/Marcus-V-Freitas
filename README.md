@@ -123,8 +123,17 @@
   <tr>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/1196a12a-1a1d-4f87-aa0e-126660b74474"><img width="80px" src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS"/></a></td>
     <td align="center"><a href="https://www.credly.com/badges/58b2bdbd-abbd-482e-8be2-61db7a576d25"><img width="80px" src="https://images.credly.com/size/680x680/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="Azure"/></a></td>
-    <td align="center"><a href="https://www.credly.com/earner/earned/badge/01aed423-751b-4785-b9e0-85b441c332d9"><img width="80px" src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="GCP"/></a></td>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/13cc6625-048a-40c9-95e5-7abfdc948389"><img width="80px" src="https://images.credly.com/images/505080ad-3731-4b1d-98df-347655a45750/image.png" alt="GCP"/></a></td>
+  </tr>
+</table>
+
+### 💡 Leadership
+
+<br/>
+<table align="center">
+  <tr>
+     <td align="center"><a href="https://www.credly.com/earner/earned/badge/01aed423-751b-4785-b9e0-85b441c332d9"><img width="80px" src="https://images.credly.com/size/680x680/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="GCP"/></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/7f7f0545-17ee-431a-bee3-de3e9f6d854c"><img width="80px" src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="GCP"/></a></td>
   </tr>
 </table>
 
