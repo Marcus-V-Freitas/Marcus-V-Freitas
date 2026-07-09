@@ -50,6 +50,7 @@
 [![MVFC.RazorRender](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.RazorRender&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.RazorRender)
 
 [![MVFC.Pack](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Pack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Pack)
+[![MVFC.DataX](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.DataX&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.DataX)
 
 </div>
 
@@ -167,7 +168,8 @@
 <br/>
 <table align="center">
   <tr>
-    <td align="center"><a href="https://www.credly.com/earner/earned/badge/8f869330-527d-4036-996b-8cb2eb749d73"><img width="80px" src="https://images.credly.com/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" alt="Linux"/></a></td>
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/8f869330-527d-4036-996b-8cb2eb749d73"><img width="80px" src="https://images.credly.com/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" alt="Open Source Development"/></a></td>
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/3951e84a-704d-44ca-bd66-dd59b08ce6c4"><img width="80px" src="https://images.credly.com/images/efb4ebc9-5b26-49e4-bf8d-52a5996d247a/blob" alt="Open Source Licenses"/></a></td>
   </tr>
 </table>
 
