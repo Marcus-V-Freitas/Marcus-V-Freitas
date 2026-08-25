@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/marcusfreitascosta)
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](https://www.nuget.org/profiles/marcuscosta)
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@marcusviniciusdefreitascosta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=todoist&logoColor=white)](https://linkme.bio/mvfc)
 ![Profile Views](https://komarev.com/ghpvc/?username=Marcus-V-Freitas&color=F85D7F&style=flat&label=Visitas)
 
 </div>
