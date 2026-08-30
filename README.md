@@ -147,6 +147,7 @@
     <td align="center"><a href="https://www.credly.com/badges/ed6fe640-f66d-494e-a5ab-7510b144eb49"><img width="80px" src="https://images.credly.com/size/680x680/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png" alt="Azure DS"/></a></td>
     <td align="center"><a href="https://www.credly.com/badges/505e79fc-8246-46a1-848a-859308918cba"><img width="80px" src="https://images.credly.com/size/680x680/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Power BI"/></a></td>
     <td align="center"><a href="https://www.credly.com/badges/49780027-5351-413a-b7a0-b8d4f86f80f2"><img width="80px" src="https://images.credly.com/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" alt="Meta"/></a></td>
+    <td align="center"><a href="https://learn.microsoft.com/pt-br/users/mvfc/credentials/16f423f7535bb028?ref=https%3A%2F%2Fwww.credly.com%2F"><img width="80px" src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Meta"/></a></td>
   </tr>
 </table>
 
