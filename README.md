@@ -87,14 +87,6 @@
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Marcus-V-Freitas/Marcus-V-Freitas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
-
 ## 🛠️ Hard Skills
 
 <div align="center">
@@ -171,6 +163,15 @@
   <tr>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/8f869330-527d-4036-996b-8cb2eb749d73"><img width="80px" src="https://images.credly.com/images/a8e890b4-d484-4e04-b521-fba516a8c3cd/coursera-specialization-badge.png" alt="Open Source Development"/></a></td>
     <td align="center"><a href="https://www.credly.com/earner/earned/badge/3951e84a-704d-44ca-bd66-dd59b08ce6c4"><img width="80px" src="https://images.credly.com/images/efb4ebc9-5b26-49e4-bf8d-52a5996d247a/blob" alt="Open Source Licenses"/></a></td>
+  </tr>
+</table>
+
+### 🤖 IA
+
+<br/>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.credly.com/earner/earned/badge/2132d4a4-1858-4284-9b45-cd872620c18c"><img width="80px" src="https://images.credly.com/images/f101c6ac-8a2d-4220-b381-70e3e6c364e3/blob" alt="Open Source Development"/></a></td>
   </tr>
 </table>
 
