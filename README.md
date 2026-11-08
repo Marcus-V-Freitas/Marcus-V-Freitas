@@ -6,10 +6,10 @@
 
 <br/>
 
-> 🛠️ Especialista **C# / .NET** · Back-End Engineer **@ GFT Technologies**  
-> 🚀 **Embaixador GFT Technologies** · **Facilitador Google**  
-> 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics**  
-> 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet  
+> 🛠️ Especialista **C# / .NET** · Back-End Engineer **@ GFT Technologies**
+> 🚀 **Embaixador GFT Technologies** · **Facilitador Google**
+> 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics**
+> 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet
 > ☁️ Certificado **AWS · Azure · GCP**
 
 <br/>
@@ -37,17 +37,17 @@ Bibliotecas e componentes .NET com foco em **integração, resiliência e arquit
 
 <div align="center">
 
-[![MVFC.Aspire.Helpers](assets/cards/MVFC.Aspire.Helpers.svg)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers) [![MVFC.Mediator](assets/cards/MVFC.Mediator.svg)](https://github.com/Marcus-V-Freitas/MVFC.Mediator)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers"><img src="assets/cards/MVFC.Aspire.Helpers.svg" alt="MVFC.Aspire.Helpers" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.Mediator"><img src="assets/cards/MVFC.Mediator.svg" alt="MVFC.Mediator" width="400" /></a>
 
-[![MVFC.Messaging](assets/cards/MVFC.Messaging.svg)](https://github.com/Marcus-V-Freitas/MVFC.Messaging) [![MVFC.Idempotence](assets/cards/MVFC.Idempotence.svg)](https://github.com/Marcus-V-Freitas/MVFC.Idempotence)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Messaging"><img src="assets/cards/MVFC.Messaging.svg" alt="MVFC.Messaging" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.Idempotence"><img src="assets/cards/MVFC.Idempotence.svg" alt="MVFC.Idempotence" width="400" /></a>
 
-[![MVFC.LongPolling](assets/cards/MVFC.LongPolling.svg)](https://github.com/Marcus-V-Freitas/MVFC.LongPolling) [![MVFC.ChaosEngineering](assets/cards/MVFC.ChaosEngineering.svg)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.LongPolling"><img src="assets/cards/MVFC.LongPolling.svg" alt="MVFC.LongPolling" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering"><img src="assets/cards/MVFC.ChaosEngineering.svg" alt="MVFC.ChaosEngineering" width="400" /></a>
 
-[![MVFC.Connectors](assets/cards/MVFC.Connectors.svg)](https://github.com/Marcus-V-Freitas/MVFC.Connectors) [![MVFC.MongoDbFlow](assets/cards/MVFC.MongoDbFlow.svg)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Connectors"><img src="assets/cards/MVFC.Connectors.svg" alt="MVFC.Connectors" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow"><img src="assets/cards/MVFC.MongoDbFlow.svg" alt="MVFC.MongoDbFlow" width="400" /></a>
 
-[![MVFC.SQLCraft](assets/cards/MVFC.SQLCraft.svg)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft) [![MVFC.RazorRender](assets/cards/MVFC.RazorRender.svg)](https://github.com/Marcus-V-Freitas/MVFC.RazorRender)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.SQLCraft"><img src="assets/cards/MVFC.SQLCraft.svg" alt="MVFC.SQLCraft" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.RazorRender"><img src="assets/cards/MVFC.RazorRender.svg" alt="MVFC.RazorRender" width="400" /></a>
 
-[![MVFC.Pack](assets/cards/MVFC.Pack.svg)](https://github.com/Marcus-V-Freitas/MVFC.Pack) [![MVFC.DataX](assets/cards/MVFC.DataX.svg)](https://github.com/Marcus-V-Freitas/MVFC.DataX)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.Pack"><img src="assets/cards/MVFC.Pack.svg" alt="MVFC.Pack" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/MVFC.DataX"><img src="assets/cards/MVFC.DataX.svg" alt="MVFC.DataX" width="400" /></a>
 
 </div>
 
@@ -55,11 +55,11 @@ Bibliotecas e componentes .NET com foco em **integração, resiliência e arquit
 
 <div align="center">
 
-[![Ocr](assets/cards/Ocr.svg)](https://github.com/Marcus-V-Freitas/Ocr) [![FocoFinanceiro](assets/cards/FocoFinanceiro.svg)](https://github.com/Marcus-V-Freitas/FocoFinanceiro)
+<a href="https://github.com/Marcus-V-Freitas/Ocr"><img src="assets/cards/Ocr.svg" alt="Ocr" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/FocoFinanceiro"><img src="assets/cards/FocoFinanceiro.svg" alt="FocoFinanceiro" width="400" /></a>
 
-[![VB6_.NET_IDE_DARK_THEME](assets/cards/VB6_.NET_IDE_DARK_THEME.svg)](https://github.com/Marcus-V-Freitas/VB6_.NET_IDE_DARK_THEME) [![Darth_Vader_SVG](assets/cards/Darth_Vader_SVG.svg)](https://github.com/Marcus-V-Freitas/Darth_Vader_SVG)
+<a href="https://github.com/Marcus-V-Freitas/VB6_.NET_IDE_DARK_THEME"><img src="assets/cards/VB6_.NET_IDE_DARK_THEME.svg" alt="VB6_.NET_IDE_DARK_THEME" width="400" /></a> <a href="https://github.com/Marcus-V-Freitas/Darth_Vader_SVG"><img src="assets/cards/Darth_Vader_SVG.svg" alt="Darth_Vader_SVG" width="400" /></a>
 
-[![MVFC.ImageProcessing](assets/cards/MVFC.ImageProcessing.svg)](https://github.com/Marcus-V-Freitas/MVFC.ImageProcessing)
+<a href="https://github.com/Marcus-V-Freitas/MVFC.ImageProcessing"><img src="assets/cards/MVFC.ImageProcessing.svg" alt="MVFC.ImageProcessing" width="400" /></a>
 
 </div>
 
