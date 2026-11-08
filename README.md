@@ -7,9 +7,13 @@
 <br/>
 
 > 🛠️ Especialista **C# / .NET** · Back-End Engineer **@ GFT Technologies**
-> 🚀 **Embaixador GFT Technologies** · **Facilitador Google**
-> 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics**
-> 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet
+>
+> 🚀 **Embaixador GFT Technologies** · **Facilitador Google** 
+>
+> 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics** 
+>
+> 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet 
+>
 > ☁️ Certificado **AWS · Azure · GCP**
 
 <br/>
