@@ -7,9 +7,10 @@
 <br/>
 
 > 🛠️ Especialista **C# / .NET** · Back-End Engineer **@ GFT Technologies**  
+> 🚀 **Embaixador GFT Technologies** · **Facilitador Google**  
 > 🎓 MBA USP — **Engenharia de Software** + **Data Science & Analytics**  
 > 📦 Autor da família de pacotes **MVFC.\*** publicados no NuGet  
-> ☁️ Certificado **AWS · Azure · GCP**  
+> ☁️ Certificado **AWS · Azure · GCP**
 
 <br/>
 
@@ -32,25 +33,21 @@
 
 ## 📦 Família MVFC.*
 
+Bibliotecas e componentes .NET com foco em **integração, resiliência e arquitetura de software**. Cada projeto leva ao código, exemplos e documentação.
+
 <div align="center">
 
-[![MVFC.Mediator](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Mediator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Mediator)
-[![MVFC.Messaging](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Messaging&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Messaging)
+[![MVFC.Aspire.Helpers](assets/cards/MVFC.Aspire.Helpers.svg)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers) [![MVFC.Mediator](assets/cards/MVFC.Mediator.svg)](https://github.com/Marcus-V-Freitas/MVFC.Mediator)
 
-[![MVFC.Idempotence](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Idempotence&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Idempotence)
-[![MVFC.ChaosEngineering](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ChaosEngineering&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
+[![MVFC.Messaging](assets/cards/MVFC.Messaging.svg)](https://github.com/Marcus-V-Freitas/MVFC.Messaging) [![MVFC.Idempotence](assets/cards/MVFC.Idempotence.svg)](https://github.com/Marcus-V-Freitas/MVFC.Idempotence)
 
-[![MVFC.LongPolling](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.LongPolling&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.LongPolling)
-[![MVFC.Aspire.Helpers](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Aspire.Helpers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Aspire.Helpers)
+[![MVFC.LongPolling](assets/cards/MVFC.LongPolling.svg)](https://github.com/Marcus-V-Freitas/MVFC.LongPolling) [![MVFC.ChaosEngineering](assets/cards/MVFC.ChaosEngineering.svg)](https://github.com/Marcus-V-Freitas/MVFC.ChaosEngineering)
 
-[![MVFC.Connectors](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Connectors&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Connectors)
-[![MVFC.MongoDbFlow](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.MongoDbFlow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
+[![MVFC.Connectors](assets/cards/MVFC.Connectors.svg)](https://github.com/Marcus-V-Freitas/MVFC.Connectors) [![MVFC.MongoDbFlow](assets/cards/MVFC.MongoDbFlow.svg)](https://github.com/Marcus-V-Freitas/MVFC.MongoDbFlow)
 
-[![MVFC.SQLCraft](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.SQLCraft&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft)
-[![MVFC.RazorRender](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.RazorRender&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.RazorRender)
+[![MVFC.SQLCraft](assets/cards/MVFC.SQLCraft.svg)](https://github.com/Marcus-V-Freitas/MVFC.SQLCraft) [![MVFC.RazorRender](assets/cards/MVFC.RazorRender.svg)](https://github.com/Marcus-V-Freitas/MVFC.RazorRender)
 
-[![MVFC.Pack](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.Pack&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.Pack)
-[![MVFC.DataX](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.DataX&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true)](https://github.com/Marcus-V-Freitas/MVFC.DataX)
+[![MVFC.Pack](assets/cards/MVFC.Pack.svg)](https://github.com/Marcus-V-Freitas/MVFC.Pack) [![MVFC.DataX](assets/cards/MVFC.DataX.svg)](https://github.com/Marcus-V-Freitas/MVFC.DataX)
 
 </div>
 
@@ -58,13 +55,11 @@
 
 <div align="center">
 
-[![Ocr](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Ocr&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/Ocr)
-[![FocoFinanceiro](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=FocoFinanceiro&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/FocoFinanceiro)
+[![Ocr](assets/cards/Ocr.svg)](https://github.com/Marcus-V-Freitas/Ocr) [![FocoFinanceiro](assets/cards/FocoFinanceiro.svg)](https://github.com/Marcus-V-Freitas/FocoFinanceiro)
 
-[![VB6_.NET_IDE_DARK_THEME](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=VB6_.NET_IDE_DARK_THEME&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/VB6_.NET_IDE_DARK_THEME)
-[![Darth_Vader_SVG](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=Darth_Vader_SVG&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/Darth_Vader_SVG)
+[![VB6_.NET_IDE_DARK_THEME](assets/cards/VB6_.NET_IDE_DARK_THEME.svg)](https://github.com/Marcus-V-Freitas/VB6_.NET_IDE_DARK_THEME) [![Darth_Vader_SVG](assets/cards/Darth_Vader_SVG.svg)](https://github.com/Marcus-V-Freitas/Darth_Vader_SVG)
 
-[![Image Processing](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marcus-V-Freitas&repo=MVFC.ImageProcessing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true&show_owner=false)](https://github.com/Marcus-V-Freitas/MVFC.ImageProcessing)
+[![MVFC.ImageProcessing](assets/cards/MVFC.ImageProcessing.svg)](https://github.com/Marcus-V-Freitas/MVFC.ImageProcessing)
 
 </div>
 
